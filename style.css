@@ -6,8 +6,8 @@ body {
 }
 
 .title {
-  font-size: 36px;
-  margin: 10px 0;
+  font-size: 2.25rem;
+  margin: 0.625rem 0;
   padding: 0;
   color: #141c3a;
   text-transform: uppercase;
@@ -17,25 +17,25 @@ body {
 
 #demo {
   text-align: center;
-  font-size: 18px;
-  margin-top: 15px;
+  font-size: 1.125rem;
+  margin-top: 0.9375rem;
   color: #141c3a;
   letter-spacing: 1px;
   font-style: italic;
 }
 
 .piano {
-  width: 305px;
-  height: 210px;
+  width: 19.0625rem;
+  height: 13.125rem;
   display: block;
   margin: 0 auto;
   background-color: #fd4d3f;
-  margin-top: 30px;
+  margin-top: 1.875rem;
 }
 
 .key {
-  width: 30px;
-  height: 200px;
+  width: 1.875rem;
+  height: 12.5rem;
   display: inline-block;
   border: 2px solid #141c3a;
   box-shadow: 2px 5px;
@@ -44,8 +44,8 @@ body {
 }
 
 .black-key {
-  width: 25px;
-  height: 100px;
+  width: 1.5625rem;
+  height: 6.25rem;
   display: inline-block;
   background-color: #141c3a;
   color: white;
@@ -55,30 +55,30 @@ body {
 }
 
 .keynote {
-  width: 20px;
-  height: 20px;
+  width: 1.25rem;
+  height: 1.25rem;
   text-align: center;
   display: block;
   margin: 0 auto;
-  margin-top: 175px;
+  margin-top: 10.9375rem;
 }
 
 .black-keynote {
-  width: 20px;
-  height: 20px;
+  width: 1.25rem;
+  height: 1.25rem;
   text-align: center;
   display: block;
   margin: 0 auto;
-  margin-top: 75px;
+  margin-top: 4.6875rem;
 }
 
 #lyrics {
-  width: 400px;
-  height: 240px;
+  width: 25rem;
+  height: 15rem;
   display: block;
   margin: 0 auto;
-  padding-left: 20px;
-  margin-top: 50px;
+  padding-left: 1.25rem;
+  margin-top: 3.125rem;
   background-color: #fd4d3f;
 }
 
@@ -89,10 +89,10 @@ body {
 #column-five,
 #column-six,
 #column-optional {
-  width: 90px;
+  width: 5.625rem;
   display: inline-block;
   text-align: center;
-  margin-top: 30px;
+  margin-top: 1.875rem;
 }
 
 #column-optional {
@@ -107,8 +107,8 @@ body {
 #word-six,
 #word-optional {
   background-color: white;
-  width: 90px;
-  height: 25px;
+  width: 5.625rem;
+  height: 1.5625rem;
   padding-top: 10px;
   letter-spacing: 5px;
   color: #141c3a;
@@ -122,20 +122,20 @@ body {
 #letter-note-six,
 #letter-note-optional {
   color: white;
-  width: 25px;
-  height: 25px;
-  margin: 15px 35px;
+  width: 1.5625rem;
+  height: 1.5625rem;
+  margin: 0.9375rem 2.1875rem;
 }
 
 #first-next-line,
 #second-next-line,
 #third-next-line,
 #fourth-next-line {
-  width: 80px;
-  height: 35px;
-  font-size: 16px;
+  width: 5rem;
+  height: 2.1875rem;
+  font-size: 1rem;
   position: absolute;
-  margin: 30px 10px;
+  margin: 1.875rem 0.625rem;
   border: none;
   background-color: #ffc63f;
   color: #141c3a;
